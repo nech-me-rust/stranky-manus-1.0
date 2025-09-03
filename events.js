@@ -4,10 +4,10 @@ class EventsManager {
         this.currentDate = new Date();
         this.events = [
             {
-                id: 'den-otevrenych-dveri',
-                title: 'Den otevřených dveří',
-                titleEn: 'Open House Day',
-                date: new Date(2025, 2, 15), // March 15, 2025
+                id: 'Loukáda',
+                title: 'Loukáda,
+                titleEn: 'Loukáda,
+                date: new Date(2025, 10, 15), // October 15, 2025
                 time: '10:00 - 16:00',
                 description: 'Přijďte se podívat na naši Louky, poznat zvířata a dozvědět se více o našem způsobu života.',
                 descriptionEn: 'Come visit our Meadow, meet the animals and learn more about our way of life.',
